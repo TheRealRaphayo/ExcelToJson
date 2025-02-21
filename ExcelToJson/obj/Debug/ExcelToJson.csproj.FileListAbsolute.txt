@@ -33,3 +33,7 @@ C:\Users\RT11166\Source\Repos\TheRealRaphayo\ExcelToJson\ExcelToJson\obj\Debug\E
 C:\Users\RT11166\Source\Repos\TheRealRaphayo\ExcelToJson\ExcelToJson\obj\Debug\ExcelToJ.58967F7D.Up2Date
 C:\Users\RT11166\Source\Repos\TheRealRaphayo\ExcelToJson\ExcelToJson\obj\Debug\ExcelToJson.exe
 C:\Users\RT11166\Source\Repos\TheRealRaphayo\ExcelToJson\ExcelToJson\obj\Debug\ExcelToJson.pdb
+C:\Users\RT11166\source\repos\TheRealRaphayo\ExcelToJson\ExcelToJson\bin\Debug\ExcelToJson.exe.manifest
+C:\Users\RT11166\source\repos\TheRealRaphayo\ExcelToJson\ExcelToJson\bin\Debug\ExcelToJson.application
+C:\Users\RT11166\source\repos\TheRealRaphayo\ExcelToJson\ExcelToJson\obj\Debug\ExcelToJson.exe.manifest
+C:\Users\RT11166\source\repos\TheRealRaphayo\ExcelToJson\ExcelToJson\obj\Debug\ExcelToJson.application

@@ -63,6 +63,7 @@ namespace ExcelToJson
             return result;
         }
 
+        /*
         static Dictionary<string, List<string>> ConvertExcelToJson(string filePath)
         {
             var result = new Dictionary<string, List<string>>();
@@ -101,6 +102,7 @@ namespace ExcelToJson
             }
             return result;
         }
+        */
     }
 
     // Class to represent each row in the JSON output
